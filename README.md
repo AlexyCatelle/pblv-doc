@@ -7,6 +7,12 @@ Cloner les branches **main** repositories suivants :
 - **Front-end** : https://github.com/LeTinmz/pblv-front
 - **Back-end (API)** : https://github.com/ErwinBezu/poubelle-la-vie-backend
 - **Back-office** : https://github.com/ErwinBezu/pblv-backoffice
+
+  ```
+git clone https://github.com/LeTinmz/pblv-front.git
+git clone https://github.com/ErwinBezu/poubelle-la-vie-backend.git
+git clone https://github.com/ErwinBezu/pblv-backoffice.git
+  ```
 ## Prérequis
 
 Avant de commencer, assurez-vous que :
