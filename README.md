@@ -9,9 +9,9 @@ Cloner les branches **main** repositories suivants :
 - **Back-office** : https://github.com/ErwinBezu/pblv-backoffice
 
   ```
-git clone https://github.com/LeTinmz/pblv-front.git
-git clone https://github.com/ErwinBezu/poubelle-la-vie-backend.git
-git clone https://github.com/ErwinBezu/pblv-backoffice.git
+  git clone https://github.com/LeTinmz/pblv-front.git
+  git clone https://github.com/ErwinBezu/poubelle-la-vie-backend.git
+  git clone https://github.com/ErwinBezu/pblv-backoffice.git
   ```
 ## Prérequis
 
